@@ -7,6 +7,8 @@ As seguintes bibliotecas devem ser instaladas com pip:
 - langchain_community
 - unstructured
 - unstructured[pdf]
+- unstructured[pptx]
+- unstructured[docx]
 - python-dotenv
 - openai
 - faiss-cpu
@@ -17,4 +19,4 @@ Substitua o valor placeholder da variável OPENAIKEY com sua chave de API.
 ## Ajuste do modelo
 Modifique os valores na declaração da variável llm para ajustar o modelo e a temperatura.
 ## Execução
-Rode o arquivo .py com Python 3.12 e siga as instruções no terminal.
+Rode o arquivo processa_data.py primeiro com Python 3.12 e aguarde finalização do processo. Depois, execute o chatbot e siga as instruções no terminal.
