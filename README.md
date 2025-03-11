@@ -15,6 +15,7 @@ As seguintes bibliotecas devem ser instaladas com pip:
 - faiss-cpu
 - poppler
 - tesseract
+- soffice (libreoffice)
 ## Diretório
 O diretório com os documentos deve estar em algum lugar na máquina local. Simplesmente modifique a variável "directory_path" com o caminho do diretório.
 ## Chave de API
