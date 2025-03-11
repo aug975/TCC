@@ -9,6 +9,7 @@ As seguintes bibliotecas devem ser instaladas com pip:
 - unstructured[pdf]
 - unstructured[pptx]
 - unstructured[docx]
+- unstructured[xlsx]
 - python-dotenv
 - openai
 - faiss-cpu
