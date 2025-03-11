@@ -19,4 +19,4 @@ Substitua o valor placeholder da variável OPENAIKEY com sua chave de API.
 ## Ajuste do modelo
 Modifique os valores na declaração da variável llm para ajustar o modelo e a temperatura.
 ## Execução
-Rode o arquivo processa_data.py ou processa_web primeiro com Python 3.12 e aguarde finalização do processo. Depois, execute o chatbot e siga as instruções no terminal.
+Rode o arquivo processa_data.py ou processa_web (a partir de URLs desejadas que devem ser adicionadas dentro do arquivo) primeiro com Python 3.12 e aguarde finalização do processo. Depois, execute o chatbot e siga as instruções no terminal.
